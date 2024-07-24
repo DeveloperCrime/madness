@@ -1,0 +1,336 @@
+{
+    "files": [
+        {
+            "checksum": 2340689541,
+            "compressed_size": 1415994,
+            "relative_path": "Character\\Monster\\Mesh\\QG_SIXLEGS.MSH",
+            "size": 2740024
+        },
+        {
+            "checksum": 3559694659,
+            "compressed_size": 259238,
+            "relative_path": "Character\\Monster\\Tex\\QG_SIXLEGS_01.dds",
+            "size": 692112
+        },
+        {
+            "checksum": 3132254754,
+            "compressed_size": 285124,
+            "relative_path": "Character\\Monster\\Tex\\QG_SIXLEGS_02.dds",
+            "size": 692112
+        },
+        {
+            "checksum": 2572158764,
+            "compressed_size": 40825,
+            "relative_path": "d3d9.dll",
+            "size": 77312
+        },
+        {
+            "checksum": 643311644,
+            "compressed_size": 83950,
+            "relative_path": "DataTable\\Character.edf",
+            "size": 623581
+        },
+        {
+            "checksum": 545062043,
+            "compressed_size": 3095,
+            "relative_path": "DataTable\\en-gb\\gamedb.dat",
+            "size": 9926
+        },
+        {
+            "checksum": 1828555997,
+            "compressed_size": 31190,
+            "relative_path": "DataTable\\en-gb\\NDCharacter.edf",
+            "size": 218657
+        },
+        {
+            "checksum": 3958871345,
+            "compressed_size": 11790,
+            "relative_path": "DataTable\\en-gb\\NDEventShip.edf",
+            "size": 12486
+        },
+        {
+            "checksum": 907586572,
+            "compressed_size": 2074163,
+            "relative_path": "DataTable\\en-gb\\NDItem.edf",
+            "size": 7539681
+        },
+        {
+            "checksum": 1315282742,
+            "compressed_size": 2323,
+            "relative_path": "DataTable\\en-gb\\NDItemCash.edf",
+            "size": 2501
+        },
+        {
+            "checksum": 2432776252,
+            "compressed_size": 167197,
+            "relative_path": "DataTable\\en-gb\\NDLanguage.edf",
+            "size": 175792
+        },
+        {
+            "checksum": 1200398344,
+            "compressed_size": 9219,
+            "relative_path": "DataTable\\en-gb\\ndmap.edf",
+            "size": 33490
+        },
+        {
+            "checksum": 966905726,
+            "compressed_size": 868,
+            "relative_path": "DataTable\\en-gb\\NDMsgEvent.edf",
+            "size": 7977
+        },
+        {
+            "checksum": 1932094350,
+            "compressed_size": 43370,
+            "relative_path": "DataTable\\en-gb\\NDMsgMonster.edf",
+            "size": 73030
+        },
+        {
+            "checksum": 1014188753,
+            "compressed_size": 511853,
+            "relative_path": "DataTable\\en-gb\\NDQuest.edf",
+            "size": 604319
+        },
+        {
+            "checksum": 203054279,
+            "compressed_size": 50821,
+            "relative_path": "DataTable\\en-gb\\NDSkillForce.edf",
+            "size": 640073
+        },
+        {
+            "checksum": 2902323445,
+            "compressed_size": 17328,
+            "relative_path": "DataTable\\en-gb\\NDStore.edf",
+            "size": 25713
+        },
+        {
+            "checksum": 1204604381,
+            "compressed_size": 14245,
+            "relative_path": "DataTable\\EventShip.edf",
+            "size": 41609
+        },
+        {
+            "checksum": 949367875,
+            "compressed_size": 137,
+            "relative_path": "DataTable\\gamedata.dat",
+            "size": 162
+        },
+        {
+            "checksum": 787201570,
+            "compressed_size": 2820751,
+            "relative_path": "DataTable\\Item.edf",
+            "size": 14417859
+        },
+        {
+            "checksum": 3890726843,
+            "compressed_size": 6065,
+            "relative_path": "DataTable\\ItemCash.edf",
+            "size": 35561
+        },
+        {
+            "checksum": 2622607749,
+            "compressed_size": 1159807,
+            "relative_path": "DataTable\\ItemCombine.edf",
+            "size": 10035641
+        },
+        {
+            "checksum": 1827869515,
+            "compressed_size": 18259,
+            "relative_path": "DataTable\\ItemPremium.edf",
+            "size": 250561
+        },
+        {
+            "checksum": 2060857407,
+            "compressed_size": 10905,
+            "relative_path": "DataTable\\ItemSetEffect.edf",
+            "size": 58833
+        },
+        {
+            "checksum": 834806251,
+            "compressed_size": 6959,
+            "relative_path": "DataTable\\ItemTimer.edf",
+            "size": 10545
+        },
+        {
+            "checksum": 3236930280,
+            "compressed_size": 111718,
+            "relative_path": "DataTable\\Map.edf",
+            "size": 206875
+        },
+        {
+            "checksum": 3761542080,
+            "compressed_size": 705,
+            "relative_path": "DataTable\\MsgEvent.edf",
+            "size": 8181
+        },
+        {
+            "checksum": 141147616,
+            "compressed_size": 680,
+            "relative_path": "DataTable\\PlayerCharacter.edf",
+            "size": 657
+        },
+        {
+            "checksum": 2950910376,
+            "compressed_size": 139204,
+            "relative_path": "DataTable\\Quest.edf",
+            "size": 1288041
+        },
+        {
+            "checksum": 2881021353,
+            "compressed_size": 587413,
+            "relative_path": "DataTable\\Resource.edf",
+            "size": 4293605
+        },
+        {
+            "checksum": 3110836908,
+            "compressed_size": 3614,
+            "relative_path": "DataTable\\ru-ru\\gamedb.dat",
+            "size": 10773
+        },
+        {
+            "checksum": 240964614,
+            "compressed_size": 71672,
+            "relative_path": "DataTable\\SkillForce.edf",
+            "size": 1315337
+        },
+        {
+            "checksum": 1111715576,
+            "compressed_size": 49318,
+            "relative_path": "DataTable\\Store.edf",
+            "size": 546561
+        },
+        {
+            "checksum": 717866596,
+            "compressed_size": 348423,
+            "relative_path": "dbghelp.dll",
+            "size": 764928
+        },
+        {
+            "checksum": 1958145757,
+            "compressed_size": 95245,
+            "relative_path": "dinput8.dll",
+            "size": 172032
+        },
+        {
+            "checksum": 1612337352,
+            "compressed_size": 367678,
+            "relative_path": "Item\\Armor\\Mesh\\MSKV_MANTLE_A.MSH",
+            "size": 918028
+        },
+        {
+            "checksum": 4163758736,
+            "compressed_size": 367694,
+            "relative_path": "Item\\Armor\\Mesh\\MSKV_MANTLE_BF.MSH",
+            "size": 918028
+        },
+        {
+            "checksum": 351043253,
+            "compressed_size": 367694,
+            "relative_path": "Item\\Armor\\Mesh\\MSKV_MANTLE_BM.MSH",
+            "size": 918028
+        },
+        {
+            "checksum": 884747603,
+            "compressed_size": 367692,
+            "relative_path": "Item\\Armor\\Mesh\\MSKV_MANTLE_CF.MSH",
+            "size": 918028
+        },
+        {
+            "checksum": 2345602680,
+            "compressed_size": 367698,
+            "relative_path": "Item\\Armor\\Mesh\\MSKV_MANTLE_CM.MSH",
+            "size": 918028
+        },
+        {
+            "checksum": 2551771466,
+            "compressed_size": 972620,
+            "relative_path": "Item\\Armor\\Tex\\BProject_MSKV.dds",
+            "size": 3081728
+        },
+        {
+            "checksum": 3213137816,
+            "compressed_size": 136074,
+            "relative_path": "Item\\Armor\\Tex\\gold.dds",
+            "size": 349680
+        },
+        {
+            "checksum": 952365418,
+            "compressed_size": 528334,
+            "relative_path": "Item\\Armor\\Tex\\pur.dds",
+            "size": 1398256
+        },
+        {
+            "checksum": 1131256049,
+            "compressed_size": 83884,
+            "relative_path": "Item\\Weapon\\Mesh\\QG_WEAPON_TBOW_DRAGONV2.msh",
+            "size": 262971
+        },
+        {
+            "checksum": 3681303672,
+            "compressed_size": 82690,
+            "relative_path": "Item\\Weapon\\Mesh\\QG_WEAPON_TSTAFF_DRAGONV2.msh",
+            "size": 260411
+        },
+        {
+            "checksum": 2843392173,
+            "compressed_size": 383813,
+            "relative_path": "Item\\Weapon\\Tex\\Bow18_A_diff.DDS",
+            "size": 1398256
+        },
+        {
+            "checksum": 2339175788,
+            "compressed_size": 526372,
+            "relative_path": "Item\\Weapon\\Tex\\Staff18_A_diff.DDS",
+            "size": 1398256
+        },
+        {
+            "checksum": 1817711331,
+            "compressed_size": 152868,
+            "relative_path": "MSS32.DLL",
+            "size": 349696
+        },
+        {
+            "checksum": 3399231455,
+            "compressed_size": 3714273,
+            "relative_path": "OdinClient.dll",
+            "size": 3728384
+        },
+        {
+            "checksum": 3471692922,
+            "compressed_size": 3113099,
+            "relative_path": "RF_Online.bin",
+            "size": 7591936
+        },
+        {
+            "checksum": 852464052,
+            "compressed_size": 8261386,
+            "relative_path": "SpriteImage\\common\\item.spr",
+            "size": 53261260
+        },
+        {
+            "checksum": 2570680785,
+            "compressed_size": 94392,
+            "relative_path": "SpriteImage\\common\\odin.spr",
+            "size": 3957928
+        },
+        {
+            "checksum": 852464052,
+            "compressed_size": 8261386,
+            "relative_path": "SpriteImage\\en-gb\\item.spr",
+            "size": 53261260
+        },
+        {
+            "checksum": 852464052,
+            "compressed_size": 8261386,
+            "relative_path": "SpriteImage\\item.spr",
+            "size": 53261260
+        },
+        {
+            "checksum": 671342229,
+            "compressed_size": 417,
+            "relative_path": "system\\config.ini",
+            "size": 445
+        }
+    ],
+    "total_compressed_size": 46864501,
+    "total_files": 54
+}
